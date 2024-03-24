@@ -24,8 +24,8 @@ Follow these steps to get your development environment set up:
 1. **Clone the repository**
 
 ```bash
-git clone https://yourrepository.com/yourproject.git
-cd yourproject
+git clone https://github.com/walidkhaleed/OPenT-Flask.git
+cd OPenT-Flask
 ```
 
 2. **Create and activate a virtual environment**
